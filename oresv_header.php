@@ -49,17 +49,17 @@
                             else {
                                 
                             } ?>">
-                            <a class="nav-link" href="index.php?id=index">
+                            <a class="nav-link" href="index.html?id=index">
                                 Home
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="index.php#about">
+                            <a class="nav-link" href="index.html#about">
                                 About Us
                             </a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a href="red.php" class="nav-link"> RDE </a>                            
+                            <a href="red.html" class="nav-link"> RDE </a>
                         </li>
                         
                         <!--<li class="nav-item dropdown">
@@ -79,13 +79,13 @@
                             
                         </li>-->
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="milestones.php" >
+                            <a class="nav-link" href="milestones.html" >
                                 Miles Stones
                             </a>
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="team.php" >
+                            <a class="nav-link" href="team.html" >
                                 Team
                             </a>                            
                         </li>
@@ -105,7 +105,7 @@
                             
                         </li>-->
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="contact.php">
+                            <a class="nav-link" href="contact.html">
                                 Contact
                             </a>                            
                         </li>
