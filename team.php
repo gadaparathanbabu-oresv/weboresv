@@ -213,8 +213,6 @@
 <!-- filter -->
 <script src="plugins/filterizr/jquery.filterizr.min.js"></script>
 <!-- Google Map -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"></script>
-<script  src="plugins/google-map/gmap.js"></script>
 <!-- Syo Timer -->
 <script src="plugins/syotimer/jquery.syotimer.js"></script>
 <!-- aos -->
@@ -225,4 +223,5 @@
 <script src="js/script.js"></script>
 
 </body>
+
 </html>
